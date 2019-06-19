@@ -11,5 +11,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - sklearn
+  - scikit-learn
   - tensorflow
